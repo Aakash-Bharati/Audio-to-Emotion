@@ -2,7 +2,6 @@
 
 An AI-powered tool that transcribes audio recordings (customer service calls, podcasts, meetings) and renders the transcript **color-coded by the speaker's shifting emotion over time**, alongside an **emotional-arc chart** of the conversation.
 
-![EmotionMapper](./reference/ui-reference.png.png)
 
 ## Architecture
 
